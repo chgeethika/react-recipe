@@ -1,0 +1,15 @@
+/* src/components/FavoriteComponent/FavoriteComponent.css */
+.favorite-container {
+    padding: 10px;
+  }
+  
+  .favorite-item {
+    margin-bottom: 20px;
+  }
+  
+  .favorite-item img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  
