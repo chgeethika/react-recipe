@@ -1,0 +1,84 @@
+[{
+      "id": 1,
+      "title": "Spaghetti Bolognese",
+      "image": "/images/Spaghetti Bolognese.jpg",
+      "description": "A classic Italian pasta dish with rich, meaty sauce.",
+      "ingredients": ["spaghetti", "ground beef", "tomato sauce", "garlic", "onion"],
+      "category": "dinner"
+    },
+
+    {
+      "id": 2,
+      "title": "Chicken Curry",
+      "image": "/images/Chicken Curry.jpg",
+      "description": "A flavorful and spicy chicken curry with a rich sauce.",
+      "ingredients": ["chicken", "curry powder", "coconut milk", "onion", "garlic"],
+      "category": "lunch"
+    }
+    ,
+    {
+      "id": 3,
+      "title": "Vegetable Stir Fry",
+      "image": "/images/Vegetable Stir Fry.jpg",
+      "description": "A quick and healthy stir fry with fresh vegetables.",
+      "ingredients": ["broccoli", "carrot", "bell pepper", "soy sauce", "garlic"],
+      "category": "breakfast"
+    },
+    {
+      "id": 4,
+      "title": "Beef Tacos",
+      "image": "/images/Beef Tacos.jpg",
+      "description": "Delicious tacos filled with seasoned beef and fresh toppings.",
+      "ingredients": ["ground beef", "taco seasoning", "tortillas", "lettuce", "tomato"],
+      "category": "lunch"
+    },
+    {
+      "id": 5,
+      "title": "Margherita Pizza",
+      "image": "/images/Margherita Pizza.jpg",
+      "description": "A classic pizza with tomato, mozzarella, and basil.",
+      "ingredients": ["pizza dough", "tomato sauce", "mozzarella", "basil"],
+       "category": "dinner"
+    },
+    {
+      "id": 6,
+      "title": "Caesar Salad",
+      "image": "/images/Caesar Salad.jpg",
+      "description": "A fresh salad with romaine lettuce, croutons, and Caesar dressing.",
+      "ingredients": ["romaine lettuce", "croutons", "Caesar dressing", "parmesan cheese"],
+      "category": "lunch"
+    },
+    {
+      "id": 7,
+      "title": "Grilled Salmon",
+      "image": "/images/Grilled Salmon.jpg",
+      "description": "Perfectly grilled salmon with a lemon garlic sauce.",
+      "ingredients": ["salmon fillet", "lemon", "garlic", "olive oil", "dill"],
+         "category": "dinner"
+    },
+    {
+      "id": 8,
+      "title": "Chocolate Cake",
+      "image": "/images/Chocolate Cake.jpg",
+      "description": "A rich and moist chocolate cake with a creamy frosting.",
+      "ingredients": ["flour", "cocoa powder", "sugar", "eggs", "butter"],
+      "category": "lunch"
+    },
+    {
+      "id": 9,
+      "title": "Pancakes",
+      "image": "/images/Pancakes.jpg",
+      "description": "Fluffy pancakes served with syrup and fresh berries.",
+      "ingredients": ["flour", "milk", "eggs", "baking powder", "syrup"],
+      "category": "breakfast"
+    },
+    {
+      "id": 10,
+      "title": "Tomato Soup",
+      "image": "/images/Tomato Soup.jpg",
+      "description": "A comforting tomato soup with a hint of basil.",
+      "ingredients": ["tomatoes", "onion", "garlic", "basil", "vegetable broth"],
+      "category": "breakfast"
+    }
+  ]
+  
